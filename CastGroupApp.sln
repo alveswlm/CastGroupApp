@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastGroupApp", "CastGroupApp\CastGroupApp.csproj", "{D4FDB1FA-99A6-426E-A2B7-5A8325C25EB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4FDB1FA-99A6-426E-A2B7-5A8325C25EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FDB1FA-99A6-426E-A2B7-5A8325C25EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FDB1FA-99A6-426E-A2B7-5A8325C25EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FDB1FA-99A6-426E-A2B7-5A8325C25EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA38F87F-B6FB-4254-BC02-AC41FB6CCBBB}
+	EndGlobalSection
+EndGlobal
